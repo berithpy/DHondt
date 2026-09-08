@@ -6,6 +6,8 @@ No necesita servidor ni build: abrí `index.html` en el navegador.
 
 Sirve para cualquier elección proporcional por listas: las bancas, las listas, las nóminas y el modo se cargan desde un JSON. Viene con las Juntas Municipales de Asunción, Encarnación y Ciudad del Este, pero no está atada a ellas.
 
+Por qué la banca la gana la lista y cómo nació esta calculadora, en el [artículo que la presenta](https://blog.melizeche.com/la-banca-la-gana-la-lista-una-calculadora-dhondt-para-las-municipales-y-otras-elecciones/).
+
 ## Contenido
 
 - [Usar ahora](#usar-ahora)
